@@ -11,7 +11,6 @@ Ang pinakabag-ong AI nga Bisaya kaayo. A Bisaya-first AI chatbot built with Reac
 - Starred messages with jump-to navigation
 - Dark / light theme
 - Voice input, image attachments
-- Export chat as .txt
 - Mobile responsive
 
 ## Tech Stack
