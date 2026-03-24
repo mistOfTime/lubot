@@ -1,0 +1,5 @@
+{
+  "name": "Turagsoy AI",
+  "description": "A Bisaya AI chatbot with real-time streaming, multi-mode intelligence, and Firebase authentication.",
+  "requestFramePermissions": ["microphone"]
+}
